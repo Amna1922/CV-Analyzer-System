@@ -1,0 +1,21 @@
+Python
+Machine Learning
+SQL
+Statistics
+TensorFlow
+Pandas
+Data Analysis
+Deep Learning
+Data Scientist
+Data Analyst
+AI Engineer
+Deep Learning Engineer
+NLP Engineer
+Data Engineer
+Predictive Modeler
+Business Intelligence Analyst
+Quantitative Analyst
+Research Data Scientist
+Statistical Modeler
+Applied Machine Learning Scientist
+Decision Scientist
